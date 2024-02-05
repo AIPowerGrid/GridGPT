@@ -1,15 +1,3 @@
-# Jan - Bring AI to your Desktop
-
-![Jan banner](https://github.com/janhq/jan/assets/89722390/35daac7d-b895-487c-a6ac-6663daaad78e)
-
-<p align="center">
-  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/janhq/jan"/>
-  <img alt="Github Last Commit" src="https://img.shields.io/github/last-commit/janhq/jan"/>
-  <img alt="Github Contributors" src="https://img.shields.io/github/contributors/janhq/jan"/>
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/janhq/jan"/>
-  <img alt="Discord" src="https://img.shields.io/discord/1107178041848909847?label=discord"/>
-</p>
 
 <p align="center">
   <a href="https://jan.ai/guides">Getting Started</a> 
